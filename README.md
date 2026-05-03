@@ -14,7 +14,7 @@ Nella cartella 'Quarta_Alessio_0312300828' troviamo:
     
 
 Nella cartella 'file' ci sono:
-  - File report che verranno usati dal sito   ==========>   'report-1' e 'report-2'.
+  - File report che verranno usati dal sito   ==========>   'report-1.pdf' e 'report-2.pdf'.
 
 
 
